@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m @mpminer -- I most recently worked at Hootsuite.
+- ✨ I have a lot of experience with Scala, PHP and Javascript (with some experience with React and Typescript), as those are the primary languages I've used over the last ~15 years. I'm "ok" at Java and have a little bit of experience with Go.
+- 🌱 I’m currently learning Ruby on Rails and Python
 
 <!--
 **mpminer/mpminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
