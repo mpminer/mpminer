@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mpminer -- I most recently worked at Hootsuite.
+- 👋 Hi, I’m @mpminer -- I work at Salesfloor, which is based in Montreal, Canada. Previously, I worked for 12 years at Hootsuite.
 - ✨ I have a lot of experience with Scala, PHP and Javascript (with some experience with React and Typescript), as those are the primary languages I've used over the last ~15 years. I also have a little bit of experience with Go and Java.
 - 🌱 I’m currently learning more about Go, Ruby on Rails and Python
 
